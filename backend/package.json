@@ -1,0 +1,19 @@
+{
+  "name": "backendcaominhada",
+  "version": "1.0.0",
+  "description": "Backend do projeto cãominhada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadeuJr/CaominhadaApp.git"
+  },
+  "author": "MadeuJr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadeuJr/CaominhadaApp/issues"
+  },
+  "homepage": "https://github.com/MadeuJr/CaominhadaApp#readme"
+}
